@@ -10,13 +10,12 @@
 from typing import List
 class Solution:
     def containsDuplicate(self, nums: List[int]) -> bool:
-        seen = []
+        seen = set()
 
         for i in nums:
             if i in seen:
                 return True
-            else:
-                seen.append(i)
+            seen.add(i)
         return False
         
 obj = Solution()
