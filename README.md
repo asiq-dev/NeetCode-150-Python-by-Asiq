@@ -1,12 +1,10 @@
 # 🐍 NeetCode 150 Python Solutions
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)](https://www.python.org/)
-[![Repo Size](https://img.shields.io/github/repo-size/asiqul/NeetCode-150-Python-by-Asiq)](https://github.com/asiqul/NeetCode-150-Python-by-Asiq)
-[![Last Commit](https://img.shields.io/github/last-commit/asiqul/NeetCode-150-Python-by-Asiq)](https://github.com/asiqul/NeetCode-150-Python-by-Asiq)
 
 ## About The Project
 In this repository, I am solving the NeetCode 150 problems using Python. Each solution is written for clarity and efficiency, with file names matching the problem number and title.
-
+<!-- 
 ---
 
 ## Table of Contents
@@ -55,4 +53,4 @@ Contributions are welcome! Feel free to open issues or submit pull requests to a
 ---
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the MIT License. -->
